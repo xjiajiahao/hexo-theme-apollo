@@ -6,16 +6,16 @@ menu:
     Rss: /atom.xml
 
 favicon: /favicon.png
-logo: /favicon.png
+#logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
+disqus: xjiajiahao
 duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-67050035-1
 
 # Copyright Infomation
 startyear: 2015
