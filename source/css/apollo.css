@@ -182,7 +182,8 @@ hr {
 code {
     margin: 0 2px;
     padding: 3px 5px;
-    color: #e96900;
+    /*color: #e96900;*/
+    color: #C7254E;
     border-radius: 2px;
     white-space: inherit
 }
@@ -379,6 +380,7 @@ header .nav-list-item a {
 code, pre {
     font-size: 1em;
     background-color: #f8f8f8;
+    /*background-color: #F9F2F4;*/
     font-family: Consolas, 'Roboto Mono', Monaco, courier, monospace
 }
 .highlight {
@@ -485,7 +487,8 @@ pre .function .keyword, pre .constant {
     color: #0092db
 }
 pre .keyword, pre .attribute {
-    color: #e96900
+    /*color: #e96900*/
+    color: #C7254E
 }
 pre .number, pre .literal {
     color: #ae81ff
