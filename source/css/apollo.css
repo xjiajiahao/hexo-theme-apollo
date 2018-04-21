@@ -521,15 +521,14 @@ pre .coffeescript .javascript, pre .javascript .xml, pre .tex .formula, pre .xml
 .paginator .prev, .paginator .next {
     display: inline-block;
     margin: 0 4px;
-    padding: 4px 12px;
-    border-radius: 4px;
-    border-bottom: 4px solid #3aa373;
+    padding: 0px 4px;
+    border-radius: 2px;
     font-size: 14px;
     color: #fff;
-    background-color: #4fc08d
+    background-color: #5090B5
 }
 .paginator .prev:hover, .paginator .next:hover {
-    background-color: #22bd77
+    background-color: #66ADD7
 }
 .ds-thread, #disqus_thread {
     margin-bottom: 2em

@@ -1,5 +1,10 @@
 //- LaTex
-script(async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML")
+script(type="text/x-mathjax-config").
+    MathJax.Hub.Config({
+        TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+
+script(async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML")
 
 //- Analytics tracking
 - var ga = theme.ga

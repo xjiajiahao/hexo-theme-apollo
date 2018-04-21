@@ -1,16 +1,16 @@
 menu:
-    Stephen Tse's Blog: /
+    Jiahao Xie's Blog: /
     Archive: /archives/
     GitHub: https://github.com/xjiajiahao
     About: /about/
 
-favicon: /favicon.png
-#logo: /favicon.png
+# favicon: /favicon.png
+# logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus: xjiajiahao
-duoshuo:
+# disqus: xjiajiahao
+# duoshuo:
 
 # Analytics
 # google-analytics:
